@@ -1,7 +1,6 @@
 import Link from 'next/link'
 
 async function getProjects() {
-  // Simulate fetching projects from an API
   return [
     { id: 1, title: "E-commerce Platform", description: "A full-featured online store with payment integration", tags: ["React", "Node.js", "MongoDB"] },
     { id: 2, title: "Task Management App", description: "A productivity app for team collaboration", tags: ["Next.js", "Firebase"] },

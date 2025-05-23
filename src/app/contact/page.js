@@ -13,7 +13,7 @@ export default function Contact() {
               id="name"
               name="name"
               className="w-full px-4 py-2 border rounded-md focus:ring-blue-500 focus:border-blue-500"
-              required
+              
             />
           </div>
           
@@ -26,7 +26,7 @@ export default function Contact() {
               id="email"
               name="email"
               className="w-full px-4 py-2 border rounded-md focus:ring-blue-500 focus:border-blue-500"
-              required
+              
             />
           </div>
           
@@ -39,7 +39,7 @@ export default function Contact() {
               name="message"
               rows="4"
               className="w-full px-4 py-2 border rounded-md focus:ring-blue-500 focus:border-blue-500"
-              required
+              
             ></textarea>
           </div>
           

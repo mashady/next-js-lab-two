@@ -1,5 +1,4 @@
 async function getProject(id) {
-  // Simulate fetching a single project
   const projects = [
     { 
       id: 1, 
